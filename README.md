@@ -1,16 +1,13 @@
-### Hi there 👋
+![header](https://yadi.sk/i/XGOgCXko4_Bnng)
 
-<!--
-**laruse91/laruse91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm beginner Front-end developer
 
-Here are some ideas to get you started:
+### some info about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Languages and Tools
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178c6?style=flat-square&logo=typescript&logoColor=white)
+
+Follow me
