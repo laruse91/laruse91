@@ -1,11 +1,10 @@
 ![header](https://github.com/laruse91/laruse91/blob/main/assets/template.png?raw=true)
 
-## I'm beginner Front-end developer
+## Front-end developer
 
 #### About me
 
-My name is Ruslan. I am a design engineer, but I started learning programming and realized that I love to code. Now I
-actively and very eagerly learn JavaScript and I hope to soon change my occupation and devote myself to this
+My name is Ruslan. I am Frontend developer
 
 ## Languages and Tools
 
